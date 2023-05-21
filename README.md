@@ -1,2 +1,2 @@
 # latihan-1
-pelatiahn software engeneering
+pelatihan software engeneering
